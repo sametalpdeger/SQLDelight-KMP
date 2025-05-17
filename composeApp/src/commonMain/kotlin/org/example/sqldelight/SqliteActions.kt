@@ -1,5 +1,4 @@
-import org.example.sqldelight.Post
-import org.example.sqldelight.sqliteQuery
+package org.example.sqldelight
 
 object SqliteActions {
     fun readAllPosts(): List<Post> {

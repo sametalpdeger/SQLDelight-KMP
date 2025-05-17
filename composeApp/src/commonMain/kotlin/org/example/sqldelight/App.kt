@@ -1,6 +1,5 @@
 package org.example.sqldelight
 
-import SqliteActions
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
